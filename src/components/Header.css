@@ -1,0 +1,15 @@
+.nav-ul {
+  display: flex;
+  justify-content: flex-end;
+}
+.nav {
+  display: flex;
+  justify-content: flex-end;
+}
+ul {
+  width: 10%;
+  list-style: none;
+}
+h1 {
+  width: 25%;
+}
